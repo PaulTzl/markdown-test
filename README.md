@@ -14,5 +14,5 @@ In this example, I have uploaded the same image into this repo and referenced it
 ```
 ![](Dashboard.svg)
 ```
-
+![](Dashboard.svg)
 
