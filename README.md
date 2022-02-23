@@ -6,4 +6,4 @@ Uploaded by dragging into GitHub web editor (so the image is automatically uploa
 
 In this example, I have uploaded the same image into a subdirectory and referenced it in this markdown (the ability to do this isn't new):
 
-
+![](Dashboard.svg)
